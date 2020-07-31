@@ -9,7 +9,7 @@ avatarDesc: 物理学习
 url: "https://Y-M-T.github.io"
 
 # 博客是否自动生成目录，false为不生成
-enableToc: true
+enableToc: false
 
 # Comment
 comment:
